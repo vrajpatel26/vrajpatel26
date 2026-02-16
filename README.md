@@ -12,9 +12,9 @@
 
 - 🔭 At present, I am expert in **Full Stack Web Development using MERN Stack.**
 
-- 🌱 I'm interested in the the fields of **Development**
+- 🌱 I'm interested in the the fields of **Development.**
 
-- 👯 I’m looking to collaborate on **MERN stack project**
+- 👯 I’m looking to collaborate on **MERN stack project.**
 
 - 📫 Reach me: [Here's my mail id!](mailto:vraj.26112004@gmail.com) | [Here's my LinkedIn Profile!](https://www.linkedin.com/in/vraj-patel-3b94542a4)
 
