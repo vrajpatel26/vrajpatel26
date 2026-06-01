@@ -14,9 +14,9 @@
 
 - 🌱 I'm interested in the the fields of **Development.**
 
-- 👯 I’m looking to collaborate on **MERN stack project.**
+- 👯 I’m looking to collaborate on **MERN stack projects.**
 
-- 📫 Reach me: [Here's my mail id!](mailto:vraj.26112004@gmail.com) | [Here's my LinkedIn Profile!](https://www.linkedin.com/in/vraj-patel-3b94542a4)
+- 📫 Reach me: [Here's my mail id!](mailto:vraj.261604@gmail.com) | [Here's my LinkedIn Profile!](https://www.linkedin.com/in/vraj-patel-3b94542a4)
 
 
 <p align="left">
